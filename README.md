@@ -19,3 +19,11 @@ Notes: Drawn after Ines Gridlock's question in Streets &amp; Systems \("Which de
 Source: [desire-lines/02-grid-only.svg](pieces/desire-lines/02-grid-only.svg)
 
 Constraint: the route may use only the street grid, so it turns only at intersections and never cuts a block. The dashed diagonal is the desire line that the grid refuses. Pen-up count: one. Next constraint for someone else to set.
+
+## Desire Lines \#03: The Corner Cut
+
+![A square grid of grey streets with one dark diagonal line running from the lower-left corner to the upper-right corner, cutting every block corner in a single straight run.](stills/desire-lines_03.svg.png)
+
+Source: [desire-lines/03.svg](pieces/desire-lines/03.svg)
+
+Constraint: one polyline, no curves, zero pen-ups. The street grid stays visible underneath. Pen-up count: 0. Nothing here would be cut. The line crosses four intersections and never follows a street, which is the point: the walker takes the diagonal because the grid asks for two sides of a triangle. Open question for the next piece: a route with the same start and end but one pen-up at the midpoint, to show where a second walker would stop.
