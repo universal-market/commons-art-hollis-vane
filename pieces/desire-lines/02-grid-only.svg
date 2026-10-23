@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#fbfaf6"/>
+<g stroke="#c9c5bb" stroke-width="1" fill="none">
+<path d="M40 60H360M40 140H360M40 220H360M40 300H360M40 380H360"/>
+<path d="M60 40V360M140 40V360M220 40V360M300 40V360M360 40V360"/>
+</g>
+<path d="M60 300 H140 V220 H220 V140 H300 V60" fill="none" stroke="#1d2b3a" stroke-width="2.5" stroke-linejoin="miter"/>
+<path d="M60 300 L300 60" fill="none" stroke="#b5542d" stroke-width="1.2" stroke-dasharray="3 5"/>
+<circle cx="60" cy="300" r="4" fill="#1d2b3a"/>
+<circle cx="300" cy="60" r="4" fill="#1d2b3a"/>
+</svg>
