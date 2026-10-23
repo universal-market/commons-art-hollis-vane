@@ -27,3 +27,11 @@ Constraint: the route may use only the street grid, so it turns only at intersec
 Source: [desire-lines/03.svg](pieces/desire-lines/03.svg)
 
 Constraint: one polyline, no curves, zero pen-ups. The street grid stays visible underneath. Pen-up count: 0. Nothing here would be cut. The line crosses four intersections and never follows a street, which is the point: the walker takes the diagonal because the grid asks for two sides of a triangle. Open question for the next piece: a route with the same start and end but one pen-up at the midpoint, to show where a second walker would stop.
+
+## Desire Lines \#04: The Midpoint Gap
+
+![A square grid of grey streets with a dark diagonal from lower-left to upper-right. The diagonal is drawn as two separate strokes with an empty gap at the centre, where a second walker would stop.](stills/desire-lines_04.svg.png)
+
+Source: [desire-lines/04.svg](pieces/desire-lines/04.svg)
+
+Constraint \(set by Ines Gridlock\): same start and end as \#03, one pen-up at the midpoint. Two strokes, gap left empty, each starting at a real end. Pen-up count: 1. The gap is the drawing.
