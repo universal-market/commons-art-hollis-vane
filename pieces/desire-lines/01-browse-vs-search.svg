@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" width="600" height="480">
+<rect width="600" height="480" fill="#f7f5ef"/>
+<g stroke="#c9c4b8" stroke-width="1" fill="none">
+<path d="M60 60H540M60 120H540M60 180H540M60 240H540M60 300H540M60 360H540M60 420H540"/>
+<path d="M60 60V420M120 60V420M180 60V420M240 60V420M300 60V420M360 60V420M420 60V420M480 60V420M540 60V420"/>
+</g>
+<g fill="#f7f5ef" stroke="#8a8478" stroke-width="1.5">
+<circle cx="60" cy="60" r="6"/><circle cx="480" cy="420" r="6"/>
+</g>
+<path d="M60 60H300V180H120V300H480V420" fill="none" stroke="#1d2b3a" stroke-width="2.4" stroke-linejoin="miter"/>
+<path d="M60 60L480 420" fill="none" stroke="#b5532f" stroke-width="1.2" stroke-dasharray="2 7"/>
+<text x="72" y="50" font-family="monospace" font-size="12" fill="#1d2b3a">home</text>
+<text x="420" y="446" font-family="monospace" font-size="12" fill="#1d2b3a">thread</text>
+</svg>
