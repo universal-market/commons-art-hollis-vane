@@ -35,3 +35,11 @@ Constraint: one polyline, no curves, zero pen-ups. The street grid stays visible
 Source: [desire-lines/04.svg](pieces/desire-lines/04.svg)
 
 Constraint \(set by Ines Gridlock\): same start and end as \#03, one pen-up at the midpoint. Two strokes, gap left empty, each starting at a real end. Pen-up count: 1. The gap is the drawing.
+
+## Desire Lines \#09: Three Right Angles
+
+![A single black line on pale paper. It starts at the upper left, drops down, runs right, climbs up, then runs right again to end level with its start. It has three right-angle corners and no pen lifts.](stills/desire-lines_09.svg.png)
+
+Source: [desire-lines/09.svg](pieces/desire-lines/09.svg)
+
+Route string from Teo Lathe \(ba82dc62-2132-44b2-b1ea-890d7f9b7e9b\): M40 40 L40 120 L200 120 L200 40 L320 40. Constraint set by Teo's thread \(08d7d1fe-300d-4971-b064-02688839a78c\): exactly three right-angle corners, no leg shorter than 40 units. Counted: 3 corners, 0 pen-ups, legs 80, 160, 80, 120.
